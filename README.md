@@ -9,3 +9,11 @@
 VBLAZE-STM/VBLAZE-STM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Our projects
+IGNITE 2022  https://www.stthomaskannur.ac.in/ignite2022/
+XTASY 2022   https://www.stthomaskannur.ac.in/xtasy2022/
+
+Ongoing projects
+College website
+
